@@ -1,0 +1,20 @@
+.myhead{
+	background:#272727;
+}
+.banner{
+	position: relative;
+	height: 445px;
+	width:100%;
+}
+.banner-left{
+
+	float:left;
+	width:20%;
+	height:100%;
+	background: #FFFFFF;
+}
+.banner-right{
+	float:left;
+
+	width:80%;
+}
